@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Faiza! 👋
 
-<!--
-**faizamohammed14/faizamohammed14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 Currently exploring **GitHub & Open Source**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Skills & Technologies  
+- Programming: **Java, C, Python, JavaScript**  
+- Tools: **Git, GitHub, VS Code**
+
+## 🏷️ Badges
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://your-app-name.vercel.app/api?username=faizamohammed14&show_icons=true)
+
+
+## 🎯 Goals  
+- Learn more about **collaborative projects**  
+- Improve problem-solving through **HackerRank**   
+- Build a portfolio of **useful code snippets**
+- Create projects that solve **practical, everyday problems**   
+
+
+## 📫 Connect with me
+**Email:** faizamohammed.1410@gmail.com
+**LinkedIn:** [Faiza Mohammed](https://www.linkedin.com/in/faiza-mohammed-09a5b4358/) 
+
+
