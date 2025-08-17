@@ -19,7 +19,8 @@
 - Learn more about **collaborative projects**  
 - Improve problem-solving through **HackerRank**   
 - Build a portfolio of **useful code snippets**
-- Create projects that solve **practical, everyday problems**   
+- Create projects that solve **practical, everyday problems**
+- Contribute to **open source** 
 
 
 ## 📫 Connect with me
